@@ -1,6 +1,6 @@
 public int cal(int year, int month, int day){
 	int sum = 0;
-	for(int i = 0; i < mmonth; i++){
+	for(int i = 0; i < month; i++){
 		switch(i){
 			case 1:
 			case 3:
